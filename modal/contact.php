@@ -1,7 +1,7 @@
 <?php
 
 // Put contacting email here
-$main_email 	= "example@gmail.com";
+$main_email 	= "aruljegan94@gmail.com";
 
 
 //Fetching Values from URL
